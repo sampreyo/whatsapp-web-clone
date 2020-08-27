@@ -1,0 +1,22 @@
+.sidebarChat{
+    display:flex;
+    padding:5px;
+    align-items: center;
+    margin-left:10px;
+}
+.sidebarChat_info{
+    flex:1;
+    border-bottom: 1px solid black;
+    margin-left:5px
+}
+.sidebarChat_info>h2{
+    margin-bottom: 0px;
+    margin-top:0px;
+}
+.sidebarChat_info>h2,p{
+    margin-left:5px;
+}
+a{
+    text-decoration: none !important;
+    color:black;
+}
